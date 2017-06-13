@@ -1,3 +1,6 @@
+
+//Write a program to print the “X” pattern:  
+
 package asst2_3;
 
 public class XPattern {
